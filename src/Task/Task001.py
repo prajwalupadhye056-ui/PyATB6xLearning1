@@ -1,0 +1,1 @@
+print("Pramod Dutta", "Prajwal", 123, True, 3.14, sep='*',end="_")
