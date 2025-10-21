@@ -15,7 +15,7 @@
 actual_title= input("Enter the actual title \n")
 expected_title=input("Enter the expected title \n");
 
-if expected_title.lower() == actual_title.strip().lower():
+if expected_title.strip().lower() == actual_title.strip():
     print("The Test passed- The title matches")
 else:
     print("The Test Failed -The title does not match")
