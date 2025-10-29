@@ -1,0 +1,153 @@
+{
+	"info": {
+		"_postman_id": "0be983d3-ccf9-4525-9d90-0de8e3ae3cc2",
+		"name": "Project #2 -OpenCart Registeration",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27487641",
+		"_collection_link": "https://prajwal-team-4655.postman.co/workspace/ATB6x~40b8c444-3c96-4614-baee-47ccffc24321/collection/27487641-0be983d3-ccf9-4525-9d90-0de8e3ae3cc2?action=share&source=collection_link&creator=27487641"
+	},
+	"item": [
+		{
+			"name": "Create Account API",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "accept-language",
+						"value": "en-US,en;q=0.9"
+					},
+					{
+						"key": "cache-control",
+						"value": "max-age=0"
+					},
+					{
+						"key": "origin",
+						"value": "https://awesomeqa.com"
+					},
+					{
+						"key": "priority",
+						"value": "u=0, i"
+					},
+					{
+						"key": "referer",
+						"value": "https://awesomeqa.com/ui/index.php?route=account/register"
+					},
+					{
+						"key": "sec-ch-ua",
+						"value": "\"Google Chrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\""
+					},
+					{
+						"key": "sec-ch-ua-mobile",
+						"value": "?0"
+					},
+					{
+						"key": "sec-ch-ua-platform",
+						"value": "\"Windows\""
+					},
+					{
+						"key": "sec-fetch-dest",
+						"value": "document"
+					},
+					{
+						"key": "sec-fetch-mode",
+						"value": "navigate"
+					},
+					{
+						"key": "sec-fetch-site",
+						"value": "same-origin"
+					},
+					{
+						"key": "sec-fetch-user",
+						"value": "?1"
+					},
+					{
+						"key": "upgrade-insecure-requests",
+						"value": "1"
+					},
+					{
+						"key": "user-agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+					},
+					{
+						"key": "Cookie",
+						"value": "OCSESSID=4e923162ab0abadd028183e641; language=en-gb; currency=USD"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "customer_group_id",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "firstname",
+							"value": "Prajwal ",
+							"type": "text"
+						},
+						{
+							"key": "lastname",
+							"value": "Upadhye",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "prajwal.upadhye056@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "telephone",
+							"value": "563556255",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "Indiaisgr8@123",
+							"type": "text"
+						},
+						{
+							"key": "confirm",
+							"value": "Indiaisgr8@123",
+							"type": "text"
+						},
+						{
+							"key": "newsletter",
+							"value": "0",
+							"type": "text"
+						},
+						{
+							"key": "agree",
+							"value": "1",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://awesomeqa.com/ui/index.php?route=account/register",
+					"protocol": "https",
+					"host": [
+						"awesomeqa",
+						"com"
+					],
+					"path": [
+						"ui",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/register"
+						}
+					]
+				},
+				"description": "Generated from cURL: curl 'https://awesomeqa.com/ui/index.php?route=account/register' \\\r\n  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \\\r\n  -H 'accept-language: en-US,en;q=0.9' \\\r\n  -H 'cache-control: max-age=0' \\\r\n  -H 'content-type: multipart/form-data; boundary=----WebKitFormBoundarycR6ske7fXiWmItf4' \\\r\n  -b 'OCSESSID=4e923162ab0abadd028183e641; language=en-gb; currency=USD' \\\r\n  -H 'origin: https://awesomeqa.com' \\\r\n  -H 'priority: u=0, i' \\\r\n  -H 'referer: https://awesomeqa.com/ui/index.php?route=account/register' \\\r\n  -H 'sec-ch-ua: \"Google Chrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"' \\\r\n  -H 'sec-ch-ua-mobile: ?0' \\\r\n  -H 'sec-ch-ua-platform: \"Windows\"' \\\r\n  -H 'sec-fetch-dest: document' \\\r\n  -H 'sec-fetch-mode: navigate' \\\r\n  -H 'sec-fetch-site: same-origin' \\\r\n  -H 'sec-fetch-user: ?1' \\\r\n  -H 'upgrade-insecure-requests: 1' \\\r\n  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36' \\\r\n  --data-raw $'------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"customer_group_id\"\\r\\n\\r\\n1\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"firstname\"\\r\\n\\r\\nPrajwal \\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"lastname\"\\r\\n\\r\\nUpadhye\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"email\"\\r\\n\\r\\nprajwal.upadhye056@gmail.com\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"telephone\"\\r\\n\\r\\n563556255\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"password\"\\r\\n\\r\\nIndiaisgr8@123\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"confirm\"\\r\\n\\r\\nIndiaisgr8@123\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"newsletter\"\\r\\n\\r\\n0\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4\\r\\nContent-Disposition: form-data; name=\"agree\"\\r\\n\\r\\n1\\r\\n------WebKitFormBoundarycR6ske7fXiWmItf4--\\r\\n'"
+			},
+			"response": []
+		}
+	]
+}
