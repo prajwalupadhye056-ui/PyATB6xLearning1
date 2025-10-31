@@ -7,9 +7,9 @@ o/p = result in string - iso, eq, scalene
 
 def triangle(side1, side2 ,side3):
     if side1 == side2 == side3:
-        print("Traingle is equilateral")
+        print("Triangle is equilateral")
     elif side1 == side2 or side2 == side3 or side1 == side3:
-        print("Traingle is isosceles")
+        print("Triangle is isosceles")
     else :
         print("triangle is scalene")
 
