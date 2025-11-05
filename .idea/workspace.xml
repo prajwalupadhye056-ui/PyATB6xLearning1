@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="03th Nov 2025 -New files Added">
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" afterDir="false" />
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="05th Nov 2025 -New files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task20_Test_Case_Check.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task20_Test_Case_Check.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +184,7 @@
     "Python.Task19_FunctionTriangle.executor": "Run",
     "Python.Task20_Test_Case_Check.executor": "Run",
     "Python.Task21_RightAngledTraingle.executor": "Run",
+    "Python.Task22_LeftAngledTraingle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -217,30 +216,7 @@
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task21_RightAngledTraingle">
-    <configuration name="Lab90_Lambda_functions_mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lamba_functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab90_Lambda_functions_mul.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task22_LeftAngledTraingle">
     <configuration name="Lab92_Lambda_functions3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -333,13 +309,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task22_LeftAngledTraingle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task22_LeftAngledTraingle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task22_LeftAngledTraingle" />
         <item itemvalue="Python.Task21_RightAngledTraingle" />
         <item itemvalue="Python.Lab92_Lambda_functions3" />
         <item itemvalue="Python.Lab92_UserInput_Even_Odd" />
         <item itemvalue="Python.Lab_91_Lambda_functions2" />
-        <item itemvalue="Python.Lab90_Lambda_functions_mul" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +391,7 @@
       <workItem from="1762182272388" duration="784000" />
       <workItem from="1762269159561" duration="3524000" />
       <workItem from="1762320925515" duration="9989000" />
-      <workItem from="1762349573148" duration="6256000" />
+      <workItem from="1762349573148" duration="9330000" />
     </task>
     <task id="LOCAL-00001" summary="New Files Added">
       <option name="closed" value="true" />
@@ -634,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762180242873</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="05th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1762356068725</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1762356068725</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +672,8 @@
     <MESSAGE value="31th OCT 2025 -New files Added" />
     <MESSAGE value="02th Nov 2025 -New files Added" />
     <MESSAGE value="03th Nov 2025 -New files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="03th Nov 2025 -New files Added" />
+    <MESSAGE value="05th Nov 2025 -New files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="05th Nov 2025 -New files Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -708,6 +716,11 @@
           <url>file://$PROJECT_DIR$/src/Task/Task20_Test_Case_Check.py</url>
           <line>20</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Task/Task22_LeftAngledTraingle.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -831,6 +844,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab009_Identifier_Rule.coverage" NAME="Lab009_Identifier_Rule Coverage Results" MODIFIED="1760317484673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab001_Python_Hello.coverage" NAME="Lab001_Python_Hello Coverage Results" MODIFIED="1759854970501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task13_Factorial.coverage" NAME="Task13_Factorial Coverage Results" MODIFIED="1761747545464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Task" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Task22_LeftAngledTraingle.coverage" NAME="Task22_LeftAngledTraingle Coverage Results" MODIFIED="1762360151053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab44_Ternary_Operator.coverage" NAME="Lab44_Ternary_Operator Coverage Results" MODIFIED="1760438899500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_04_Operators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab71_User_Input_Pass_Function.coverage" NAME="Lab71_User_Input_Pass_Function Coverage Results" MODIFIED="1762149788447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_08_Functions" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab11_IQ_BODMAS.coverage" NAME="Lab11_IQ_BODMAS Coverage Results" MODIFIED="1760317712054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_variables" />
