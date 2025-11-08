@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="05th Nov 2025 -New files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_UserInput_Even_Odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab93_UserInput_Even_Odd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
     "Python.Lab008_Dynamically_typed.executor": "Run",
     "Python.Lab009_Identifier_Rule.executor": "Run",
     "Python.Lab009_OOPSDemo.executor": "Run",
+    "Python.Lab100_set.executor": "Run",
     "Python.Lab10_Constructor.executor": "Run",
     "Python.Lab10_maths_fun.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
@@ -155,6 +157,12 @@
     "Python.Lab90_Lambda_functions_mul.executor": "Run",
     "Python.Lab92_Lambda_functions3.executor": "Run",
     "Python.Lab92_UserInput_Even_Odd.executor": "Run",
+    "Python.Lab94_List.executor": "Run",
+    "Python.Lab95_List.executor": "Run",
+    "Python.Lab96_Pop.executor": "Run",
+    "Python.Lab97_tuple.executor": "Run",
+    "Python.Lab98_tuple.executor": "Run",
+    "Python.Lab99_tuple.executor": "Run",
     "Python.Lab_91_Lambda_functions2.executor": "Run",
     "Python.Lab_Decor2.executor": "Run",
     "Python.Lab_Match002.executor": "Run",
@@ -216,8 +224,8 @@
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task22_LeftAngledTraingle">
-    <configuration name="Lab92_Lambda_functions3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab96_Pop">
+    <configuration name="Lab100_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,12 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lamba_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15_Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_Lambda_functions3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_15_Set/Lab100_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab92_UserInput_Even_Odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab96_Pop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,12 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lamba_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_UserInput_Even_Odd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13_List/Lab96_Pop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_91_Lambda_functions2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab97_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,12 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lamba_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab_91_Lambda_functions2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_14_Tuple/Lab97_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task21_RightAngledTraingle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab98_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,12 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task21_RightAngledTraingle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_14_Tuple/Lab98_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task22_LeftAngledTraingle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab99_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,12 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task22_LeftAngledTraingle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_14_Tuple/Lab99_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,18 +337,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task22_LeftAngledTraingle" />
-        <item itemvalue="Python.Task21_RightAngledTraingle" />
-        <item itemvalue="Python.Lab92_Lambda_functions3" />
-        <item itemvalue="Python.Lab92_UserInput_Even_Odd" />
-        <item itemvalue="Python.Lab_91_Lambda_functions2" />
+        <item itemvalue="Python.Lab96_Pop" />
+        <item itemvalue="Python.Lab100_set" />
+        <item itemvalue="Python.Lab99_tuple" />
+        <item itemvalue="Python.Lab98_tuple" />
+        <item itemvalue="Python.Lab97_tuple" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
         <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
@@ -391,7 +393,8 @@
       <workItem from="1762182272388" duration="784000" />
       <workItem from="1762269159561" duration="3524000" />
       <workItem from="1762320925515" duration="9989000" />
-      <workItem from="1762349573148" duration="9330000" />
+      <workItem from="1762349573148" duration="9956000" />
+      <workItem from="1762586430474" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="New Files Added">
       <option name="closed" value="true" />
@@ -641,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762356068725</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="05th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1762363222771</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1762363222771</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
