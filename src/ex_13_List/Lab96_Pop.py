@@ -49,6 +49,9 @@ print(20 in numbers)
 l =list(range(1,5))
 print(l)
 
+#1,2,3,4 -O/P
+
+
 
 #Nested list
 
