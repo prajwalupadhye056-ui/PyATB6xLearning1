@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="06th Nov 2025 -New files Added">
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="08th Nov 2025 -New files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13_List/Lab96_Pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_List/Lab96_Pop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +84,13 @@
     "Python.Lab108_Filter03.executor": "Run",
     "Python.Lab10_Constructor.executor": "Run",
     "Python.Lab10_maths_fun.executor": "Run",
+    "Python.Lab113_Frequency_character_IQ_py.executor": "Run",
+    "Python.Lab114_Dict.executor": "Run",
+    "Python.Lab115_Removeduplicates_Dict.executor": "Run",
+    "Python.Lab116_Dict_duplicateKeys.executor": "Run",
+    "Python.Lab117_Dict_TwoDictEqual.executor": "Run",
+    "Python.Lab118_Vowelscount_.executor": "Run",
+    "Python.Lab119_OOPS.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
     "Python.Lab11_inheritance.executor": "Run",
     "Python.Lab12_MultipleVariables.executor": "Run",
@@ -181,6 +187,7 @@
     "Python.Lab_Map02.executor": "Run",
     "Python.Lab_Map03.executor": "Run",
     "Python.Lab_Match002.executor": "Run",
+    "Python.Lab_Max_dict_IQ.executor": "Run",
     "Python.Lab_Reverse.executor": "Run",
     "Python.Lab_Time.executor": "Run",
     "Python.Lab_WhileVsfor.executor": "Run",
@@ -208,6 +215,8 @@
     "Python.Task20_Test_Case_Check.executor": "Run",
     "Python.Task21_RightAngledTraingle.executor": "Run",
     "Python.Task22_LeftAngledTraingle.executor": "Run",
+    "Python.Task23_Consonants_Vowels.executor": "Run",
+    "Python.Task24_Palindrome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -239,8 +248,8 @@
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab_Dict_Concept">
-    <configuration name="Lab_109_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task24_Palindrome">
+    <configuration name="Lab117_Dict_TwoDictEqual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_109_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab117_Dict_TwoDictEqual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_110_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab118_Vowelscount_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,7 +284,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_110_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab118_Vowelscount_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_111_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab119_OOPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_111_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/Lab119_OOPS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_112_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task23_Consonants_Vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,11 +324,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_112_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task23_Consonants_Vowels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_Dict_Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task24_Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,11 +346,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_Dict_Concept.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task24_Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,11 +361,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_Dict_Concept" />
-        <item itemvalue="Python.Lab_112_Dict" />
-        <item itemvalue="Python.Lab_111_Dict" />
-        <item itemvalue="Python.Lab_110_Dict" />
-        <item itemvalue="Python.Lab_109_Dict" />
+        <item itemvalue="Python.Task24_Palindrome" />
+        <item itemvalue="Python.Task23_Consonants_Vowels" />
+        <item itemvalue="Python.Lab118_Vowelscount_" />
+        <item itemvalue="Python.Lab119_OOPS" />
+        <item itemvalue="Python.Lab117_Dict_TwoDictEqual" />
       </list>
     </recent_temporary>
   </component>
@@ -675,7 +684,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762597645390</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="08th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1762861231213</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1762861231213</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,7 +725,8 @@
     <MESSAGE value="03th Nov 2025 -New files Added" />
     <MESSAGE value="05th Nov 2025 -New files Added" />
     <MESSAGE value="06th Nov 2025 -New files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="06th Nov 2025 -New files Added" />
+    <MESSAGE value="08th Nov 2025 -New files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="08th Nov 2025 -New files Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -756,6 +774,11 @@
           <url>file://$PROJECT_DIR$/src/Task/Task22_LeftAngledTraingle.py</url>
           <line>11</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Task/Task23_Consonants_Vowels.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
