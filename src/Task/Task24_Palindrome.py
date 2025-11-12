@@ -15,9 +15,9 @@ string = input("Enter a string: ")
 
 if string.isalpha():  # checks if input has only letters
    if string == string[::-1]:
-    print("Palindrome")
+    print(f"Entered string {string} is a Palindrome")
    else:
-     print("Not Palindrome")
+     print(f"Entered string {string} is Not a Palindrome")
 
 else:
     print("Please Enter letters only")
