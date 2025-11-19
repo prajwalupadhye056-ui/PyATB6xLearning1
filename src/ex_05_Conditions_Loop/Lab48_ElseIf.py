@@ -14,6 +14,5 @@ else:
 
     if num >= 0:
         print("Even" if num % 2 == 0 else "Odd")
-
     else:
         print("Negative number")

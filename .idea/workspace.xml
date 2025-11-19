@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="14th Nov 2025 -New files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/test_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/test_Selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_variables/Lab15_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_variables/Lab15_IQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab25_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab25_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab48_ElseIf.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab48_ElseIf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab51_Grade_Cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab51_Grade_Cal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +44,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="33k82V5ytxoAOwfl11ePa7gYj0D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,18 +54,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.JAN.test_Selenium.test_vmo_.executor": "Run",
+    "Python tests.Python tests for src.ex_17112025_Pytest.test_Lab186_Pytest_Learning.test_method2.executor": "Run",
     "Python tests.Python tests in Lab81_Decor.py.executor": "Run",
     "Python tests.Python tests in Lab82_Without_Decor.py.executor": "Run",
     "Python tests.Python tests in test_Selenium.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab001_Format_String_int.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
+    "Python.Lab001_TakingUserInput.executor": "Run",
     "Python.Lab002_Python_Hello.executor": "Run",
     "Python.Lab002_TablePrint.executor": "Run",
+    "Python.Lab002_TableUserInput.executor": "Run",
     "Python.Lab002_Tuple_Dictionary.executor": "Run",
     "Python.Lab003-forloop.executor": "Run",
     "Python.Lab003_Palindrome.executor": "Run",
     "Python.Lab003_print.executor": "Run",
+    "Python.Lab004_LeapYear (1).executor": "Run",
     "Python.Lab004_LeapYear.executor": "Run",
     "Python.Lab004_Whileloop.executor": "Run",
     "Python.Lab004_keywords.executor": "Run",
@@ -83,6 +97,7 @@
     "Python.Lab107_Filter01.executor": "Run",
     "Python.Lab108_Filter03.executor": "Run",
     "Python.Lab10_Constructor.executor": "Run",
+    "Python.Lab10_maths.executor": "Run",
     "Python.Lab10_maths_fun.executor": "Run",
     "Python.Lab113_Frequency_character_IQ_py.executor": "Run",
     "Python.Lab114_Dict.executor": "Run",
@@ -119,9 +134,11 @@
     "Python.Lab25_Strings.executor": "Run",
     "Python.Lab26_Escape_Sequence.executor": "Run",
     "Python.Lab27_String_Double_Single_Diff (1).executor": "Run",
+    "Python.Lab27_String_Double_Single_Diff.executor": "Run",
     "Python.Lab27_String_Double_Single_quotes.executor": "Run",
     "Python.Lab28_Min_Max_both_numbers.executor": "Run",
     "Python.Lab29_Task.executor": "Run",
+    "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
     "Python.Lab32_Arithmatic_Op.executor": "Run",
     "Python.Lab32_Operators.executor": "Run",
@@ -140,6 +157,9 @@
     "Python.Lab44_Ternary_Operator.executor": "Run",
     "Python.Lab45_User_Input.executor": "Run",
     "Python.Lab46_Math.executor": "Run",
+    "Python.Lab47_IF_Condition.executor": "Run",
+    "Python.Lab48_NestedIf_ElseIF.executor": "Run",
+    "Python.Lab49_IF_Else.executor": "Run",
     "Python.Lab50_If_else_elif.executor": "Run",
     "Python.Lab51_Grade_Cal.executor": "Run",
     "Python.Lab52_Loops.executor": "Run",
@@ -187,6 +207,12 @@
     "Python.Lab_110_Dict.executor": "Run",
     "Python.Lab_111_Dict.executor": "Run",
     "Python.Lab_112_Dict.executor": "Run",
+    "Python.Lab_126_Encap.executor": "Run",
+    "Python.Lab_127_Encap.executor": "Run",
+    "Python.Lab_128_Encap_env.executor": "Run",
+    "Python.Lab_130_Encap.executor": "Run",
+    "Python.Lab_131_Encap.executor": "Run",
+    "Python.Lab_133_Inheritance.executor": "Run",
     "Python.Lab_91_Lambda_functions2.executor": "Run",
     "Python.Lab_Decor2.executor": "Run",
     "Python.Lab_Dict_Concept.executor": "Run",
@@ -194,6 +220,7 @@
     "Python.Lab_Map03.executor": "Run",
     "Python.Lab_Match002.executor": "Run",
     "Python.Lab_Max_dict_IQ.executor": "Run",
+    "Python.Lab_Public_Private_Protected.executor": "Run",
     "Python.Lab_Reverse.executor": "Run",
     "Python.Lab_Time.executor": "Run",
     "Python.Lab_WhileVsfor.executor": "Run",
@@ -250,15 +277,15 @@
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_05_Conditions_Loop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_18_OOPS" />
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_18_OOPS\03_InstanceVariable" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_03_Literal_Variables" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_26_Calc">
-    <configuration name="Lab123_Calc_con" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab_133_Inheritance">
+    <configuration name="Lab_128_Encap_env" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/02_Constructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/02_Constructor/Lab123_Calc_con.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation/Lab_128_Encap_env.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab125_Oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_130_Encap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/03_InstanceVariable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/03_InstanceVariable/Lab125_Oops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation/Lab_130_Encap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task21_RightAngledTraingle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_131_Encap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,11 +338,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task21_RightAngledTraingle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation/Lab_131_Encap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +351,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_25_ClassPerson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_133_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,11 +360,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/05_Inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task_25_ClassPerson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/05_Inheritance/Lab_133_Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_26_Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_Public_Private_Protected" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,11 +382,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Task_26_Calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation/Lab_Public_Private_Protected.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,11 +397,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_26_Calc" />
-        <item itemvalue="Python.Task_25_ClassPerson" />
-        <item itemvalue="Python.Task21_RightAngledTraingle" />
-        <item itemvalue="Python.Lab125_Oops" />
-        <item itemvalue="Python.Lab123_Calc_con" />
+        <item itemvalue="Python.Lab_133_Inheritance" />
+        <item itemvalue="Python.Lab_Public_Private_Protected" />
+        <item itemvalue="Python.Lab_131_Encap" />
+        <item itemvalue="Python.Lab_130_Encap" />
+        <item itemvalue="Python.Lab_128_Encap_env" />
       </list>
     </recent_temporary>
   </component>
@@ -733,7 +760,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763128969802</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="14th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1763140785311</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1763140785311</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

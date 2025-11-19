@@ -3,6 +3,7 @@ print(type(name))
 
 name= name + str(1)
 print(type(name))
+print(name)
 
 first_name = "Prajwal"
 last_name= "Upadhye"

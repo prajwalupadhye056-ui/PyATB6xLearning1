@@ -17,7 +17,7 @@ from selectors import SelectSelector
 
 score = int(input("Enter the score :\n").strip())
 
-if score > 100 or score <= -1:
+if score > 100 or score <= 1:
     print("You  are Superman!!,you can't get grade")
 
 else:
