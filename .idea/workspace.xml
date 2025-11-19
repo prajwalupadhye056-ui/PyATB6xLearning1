@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="14th Nov 2025 -New files Added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/test_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_variables/Lab15_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keywords_Identifier_variables/Lab15_IQ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab25_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab25_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab48_ElseIf.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab48_ElseIf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab51_Grade_Cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab51_Grade_Cal.py" afterDir="false" />
-    </list>
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="19th Nov 2025 -New files Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -768,7 +760,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763140785311</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="19th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1763535866278</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1763535866278</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -804,7 +804,8 @@
     <MESSAGE value="08th Nov 2025 -New files Added" />
     <MESSAGE value="12th Nov 2025 -New files Added" />
     <MESSAGE value="14th Nov 2025 -New files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="14th Nov 2025 -New files Added" />
+    <MESSAGE value="19th Nov 2025 -New files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th Nov 2025 -New files Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
