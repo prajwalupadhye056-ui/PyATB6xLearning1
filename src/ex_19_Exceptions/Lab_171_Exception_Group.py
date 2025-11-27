@@ -1,0 +1,12 @@
+#python 3.11
+
+eg = ExceptionGroup("Multiple Ex", [
+ ValueError("Invalid Value"),
+ TypeError("Type Error"),
+ ZeroDivisionError("Can't div zero")
+
+])
+
+def check_div(a):
+    if a==0:
+        raise eg
