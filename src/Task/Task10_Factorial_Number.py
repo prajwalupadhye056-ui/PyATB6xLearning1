@@ -6,7 +6,6 @@
 
 # Fact = 0 → 1,
 """
-
 num = int(input("Enter the number \n"))
 fact =1
 

@@ -17,7 +17,7 @@ Attempt 2: Response 200
 count = 1  # initialization
 
 while count <= 3:  # condition
-    res = int(input("Enter the API Response code like (200,201,404,500,503 etc.)"))  # do something
+    res = int(input("Enter the API Response code like (200,201,404,500,503) \n")) # do something
     print(f"Attempt {count}: Response {res}")
 
     if (res == 200):

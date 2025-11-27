@@ -14,7 +14,7 @@ class Home:
         print("Private wife")
 
 object_ref= Home()
-object_ref.__wife() # nit allowed
+object_ref.__wife() # not allowed
 object_ref.__private_var # not allowed
 
 object_ref.mom()

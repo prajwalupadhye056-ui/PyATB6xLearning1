@@ -7,4 +7,7 @@ def home():
 
 def stranger():
     print(public_toilet)
-    #print(private_toilet)
+    #print(private_toilet) -Not allowed
+
+home()
+stranger()

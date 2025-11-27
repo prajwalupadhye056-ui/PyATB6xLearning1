@@ -8,6 +8,6 @@ print(Base)
 
 Height= float(input("Enter the height \n"))
 print(Height)
-
+6
 area= 1/2 * Base * Height
 print("The area of triangle is : ",area)
