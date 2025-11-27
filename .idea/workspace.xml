@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="22th Nov 2025 -New files Added">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_01_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumBasics/test_01_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_02_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumBasics/test_02_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_03_Selenium_Commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumTest/test_03_Selenium_Commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_04_Selenium_Commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumTest/test_04_Selenium_Commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_05_Selenium_Miniproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumTest/test_05_Selenium_Miniproject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_06_Selenium_MultipleBrowsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumTest/test_06_Selenium_MultipleBrowsers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/test_07_Selenium_Close_Quit.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_SeleniumTest/test_07_Selenium_Close_Quit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task10_Factorial_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task10_Factorial_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task11_NetworkDelays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task11_NetworkDelays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/Lab_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab_IQ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_09_Functions_Scope/Lab_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scope/Lab_IQ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_11_Type Conversion/Lab85_TypeConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_11_Type Conversion/Lab85_TypeConversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_11_Type Conversion/Lab86_IQ_TraingleClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_11_Type Conversion/Lab86_IQ_TraingleClassifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation/Lab_132_Encap.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS/04_Encapsulation/Lab_132_Encap.py" afterDir="false" />
-    </list>
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="27th Nov 2025 -New files Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +136,7 @@
     "Python.Lab15_sampleprogram.executor": "Run",
     "Python.Lab16_Literals_Type.executor": "Run",
     "Python.Lab16_UpdateTuple_try_catch.executor": "Run",
+    "Python.Lab170_File_Not_Found_Error.executor": "Run",
     "Python.Lab17_MultiComment.executor": "Run",
     "Python.Lab19_DataType.executor": "Run",
     "Python.Lab20_Built-in_Functions.executor": "Run",
@@ -895,7 +878,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763912139889</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="27th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1764265919103</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1764265919103</updated>
+    </task>
+    <task id="LOCAL-00047" summary="27th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1764265930980</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1764265930980</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -934,7 +933,8 @@
     <MESSAGE value="19th Nov 2025 -New files Added" />
     <MESSAGE value="20th Nov 2025 -New files Added" />
     <MESSAGE value="22th Nov 2025 -New files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="22th Nov 2025 -New files Added" />
+    <MESSAGE value="27th Nov 2025 -New files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th Nov 2025 -New files Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
