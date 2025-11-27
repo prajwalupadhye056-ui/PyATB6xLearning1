@@ -1,0 +1,9 @@
+USERNAME = "admin"
+PASSWORD = "password123"
+URL = "https://app.vwo.com/"
+
+INVALID_USERNAME = "admin@12356"
+INVALID_PASSWORD = "password89653"
+
+error_message_expected="Your email, password, IP address or location did not match"
+
