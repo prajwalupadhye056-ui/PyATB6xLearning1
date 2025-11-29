@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="27th Nov 2025 -New files Added" />
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="27th Nov 2025 -New files Added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,9 @@
     &quot;accountId&quot;: &quot;a23db713-a352-47d7-bdb7-51c739cd8a0d&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -267,6 +272,16 @@
     "Python.Lab_167_Custom_Exceptions.executor": "Run",
     "Python.Lab_168_Real_API_Testing.executor": "Run",
     "Python.Lab_169_SeleniumExample.executor": "Run",
+    "Python.Lab_172_OS_Modules.executor": "Run",
+    "Python.Lab_173_Package.executor": "Run",
+    "Python.Lab_174_Collections.executor": "Run",
+    "Python.Lab_175_MainMethod.executor": "Run",
+    "Python.Lab_176_MainUsage.executor": "Run",
+    "Python.Lab_177_OS.executor": "Run",
+    "Python.Lab_178_File_Read_Write.executor": "Run",
+    "Python.Lab_179_Open_R.executor": "Run",
+    "Python.Lab_180_File_Append.executor": "Run",
+    "Python.Lab_181_CSV.executor": "Run",
     "Python.Lab_91_Lambda_functions2.executor": "Run",
     "Python.Lab_Decor2.executor": "Run",
     "Python.Lab_Dict_Concept.executor": "Run",
@@ -319,7 +334,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/SONY/PycharmProjects/PyATB6xLearning/src/ex_19_Exceptions",
+    "last_opened_file_path": "C:/Users/SONY/PycharmProjects/PyATB6xLearning/src/ex_23_FileOperation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -332,22 +347,22 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_23_FileOperation" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_19_Exceptions" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_SeleniumLocators" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_18_OOPS\01_Class_Objects" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_05_Conditions_Loop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_23_FileOperation" />
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src" />
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_20_Modules_PIP" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_SeleniumTest" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_SeleniumBasics" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_18_OOPS\05_Inheritance\SI" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_18_OOPS" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_18_OOPS\03_InstanceVariable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab_170_File_Not_Found_Error">
-    <configuration name="Lab_166_OwnExceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab_182_Pandas">
+    <configuration name="Lab_178_File_Read_Write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -356,11 +371,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_FileOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab_166_OwnExceptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_178_File_Read_Write.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +384,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_167_Custom_Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_179_Open_R" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -378,11 +393,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_FileOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab_167_Custom_Exceptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_179_Open_R.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,7 +406,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_168_Real_API_Testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_180_File_Append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -400,11 +415,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_FileOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab_168_Real_API_Testing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_180_File_Append.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_169_SeleniumExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_181_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -422,11 +437,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_FileOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab_169_SeleniumExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_181_CSV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -435,7 +450,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_170_File_Not_Found_Error" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_182_Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -444,11 +459,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_FileOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\ex_19_Exceptions\Lab_170_File_Not_Found_Error.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_182_Pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,11 +474,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_170_File_Not_Found_Error" />
-        <item itemvalue="Python.Lab_169_SeleniumExample" />
-        <item itemvalue="Python.Lab_168_Real_API_Testing" />
-        <item itemvalue="Python.Lab_167_Custom_Exceptions" />
-        <item itemvalue="Python.Lab_166_OwnExceptions" />
+        <item itemvalue="Python.Lab_182_Pandas" />
+        <item itemvalue="Python.Lab_181_CSV" />
+        <item itemvalue="Python.Lab_180_File_Append" />
+        <item itemvalue="Python.Lab_179_Open_R" />
+        <item itemvalue="Python.Lab_178_File_Read_Write" />
       </list>
     </recent_temporary>
   </component>
@@ -902,7 +917,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764266316038</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="27th Nov 2025 -New files Added">
+      <option name="closed" value="true" />
+      <created>1764266619212</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1764266619212</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1018,6 +1041,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/ex_19_Exceptions/Lab_164_Try_Except_Finally.py</url>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_22_Collections/Lab_174_Collections.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
