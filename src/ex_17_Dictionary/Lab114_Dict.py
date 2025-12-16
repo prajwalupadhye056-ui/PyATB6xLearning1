@@ -3,6 +3,5 @@ print(dict1.keys())
 print(dict1.values())
 
 dict2= {"a" : 1 ,"b" : 2}
-
-missing_keys =set(dict1.keys() - dict2.keys() )
+missing_keys =set(dict1.keys() - dict2.keys())
 print(missing_keys)

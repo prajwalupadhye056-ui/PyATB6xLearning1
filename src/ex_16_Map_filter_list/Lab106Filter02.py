@@ -6,8 +6,9 @@ def even_num(x):
 even_numbers = list(filter(even_num, nums))
 print(even_numbers)
 
-list_students= [50, 60 ,80]
 
+
+list_students= [50, 60 ,80]
 def keep(x):
     if x > 50:
         return True

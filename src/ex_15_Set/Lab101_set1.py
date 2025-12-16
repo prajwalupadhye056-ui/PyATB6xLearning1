@@ -10,6 +10,7 @@ print(a.intersection(b))
 print(a-b)
 print(b-a)
 
+#symmetric difference
 print(a ^ b)
 
 

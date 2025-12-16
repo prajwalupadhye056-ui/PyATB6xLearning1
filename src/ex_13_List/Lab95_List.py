@@ -47,7 +47,6 @@ for i in range (1,5): #1,2,3,4
     print(my_List)
 
 
-
     my_copy_List =my_List.copy()
     print(my_List)
     print(my_copy_List)

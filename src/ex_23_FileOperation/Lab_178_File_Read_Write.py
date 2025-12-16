@@ -11,4 +11,3 @@ with open('testdata.txt','r') as f:
     data= f.read()
 print(data)
 
-with open
