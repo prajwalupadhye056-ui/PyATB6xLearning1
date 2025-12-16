@@ -2,9 +2,6 @@ import pytest
 import allure
 import requests
 
-from src.ex_22_Collections.Lab_177_OS import full_path
-
-
 @allure.title("TC # Create Booking CRUD positive.")
 @allure.description("Verify the create Booking! : ")
 @pytest.mark.crud
@@ -36,4 +33,4 @@ def test_create_booking_positive_tc1():
     print(response_data.text)
     assert response_data.status_code == 200
 
-
+    # Booking_ID > 0 and firstname  == "Jim"
