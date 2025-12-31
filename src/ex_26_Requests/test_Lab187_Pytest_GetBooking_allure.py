@@ -5,7 +5,7 @@ import requests
 @allure.title("TC#1- Create Booking CRUD positive.")
 @allure.description("Verify the create booking : ")
 @pytest.mark.crud
-def test_create_booking_positive_tc1():
+def test_get_booking_positive_tc1():
     url = "https://restful-booker.herokuapp.com/booking/190"
     response_data= requests.get(url=url)
     assert response_data.status_code ==200

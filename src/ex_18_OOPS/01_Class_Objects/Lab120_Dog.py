@@ -16,3 +16,6 @@ print("Outside the class")
 
 chow =Dog()
 rancho =Dog()
+
+chow.bark()
+chow.talk()

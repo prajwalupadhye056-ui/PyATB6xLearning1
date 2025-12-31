@@ -38,8 +38,8 @@ def get_booking_id():
 
         payload = {
 
-            "firstname": "Pooja",
-            "lastname": "Khanna",
+            "firstname": "Pramod",
+            "lastname": "Brown",
             "totalprice": 111,
             "depositpaid": True,
             "bookingdates": {

@@ -8,7 +8,7 @@ class VMOLoginPage:
         if self.email == "prajwal.upadhye056@gmail.com" and self.password == "admin123":
             print("Allowed to login")
         else:
-            print("Login falied")
+            print("Login failed")
 
 
 email = input("Enter the vmo login email\n")
