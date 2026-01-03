@@ -18,27 +18,34 @@ from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
 
-@allure.title("SVG")
-@allure.description("Verify SVG")
-def test_verify_SVG():
 
 
-    driver = webdriver.Chrome()
-    driver.get("https://www.amcharts.com/svg-maps/?map=india")
+@allure.title("Shadow DOM")
+@allure.description("Verify Javascript Executor")
+def test_verify_Shadow_DOM():
+
+    chrome_options=webdriver.ChromeOptions()
+    chrome_options.add_argument("--incognito")
+
+    driver = webdriver.Chrome(chrome_options)
+    driver.get("https://selectorshub.com/xpath-practice-page/")
+    driver.maximize_window()
 
 
-    list_of_states= driver.find_elements(By.XPATH,"//*[name()='svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()='path']")
+    username_div=driver.find_element(By.XPATH,"//div[@id='userName']")
+    driver.execute_script("arguments[0].scrollIntoView(true);",username_div)
+    
 
-
-    for state in list_of_states:
-        print(state.get_attribute("aria-label"))
-
-        if "Tripura" in state.get_attribute("aria-label"):
-            state.click()
-            break
-
+    input_box=driver.execute_script("return document.querySelector('div#userName').shadowRoot.querySelector('#app2').shadowRoot.querySelector('#pizza');")
+    input_box.send_keys("farmhouse")
 
     time.sleep(5)
+    driver.quit()
+
+
+
+
+
 
 
 

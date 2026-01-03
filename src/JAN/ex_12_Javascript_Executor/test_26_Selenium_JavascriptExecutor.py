@@ -17,28 +17,29 @@ from selenium.webdriver.support.ui import Select
 
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
+@allure.title("Javascript Executor")
+@allure.description("Verify Javascript Executor")
+def test_verify_JS_Executor():
 
-@allure.title("SVG")
-@allure.description("Verify SVG")
-def test_verify_SVG():
+    chrome_options=webdriver.ChromeOptions()
+    chrome_options.add_argument("--incognito")
+
+    driver = webdriver.Chrome(chrome_options)
+    driver.get("https://selectorshub.com/xpath-practice-page/")
+    driver.maximize_window()
+
+    # driver.execute_script("window.scrollBy(0, 500);")
+    title =driver.execute_script("return document.title")
+    print(title)
+    url= driver.execute_script("return document.URL")
+    print(url)
 
 
-    driver = webdriver.Chrome()
-    driver.get("https://www.amcharts.com/svg-maps/?map=india")
 
-
-    list_of_states= driver.find_elements(By.XPATH,"//*[name()='svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()='path']")
-
-
-    for state in list_of_states:
-        print(state.get_attribute("aria-label"))
-
-        if "Tripura" in state.get_attribute("aria-label"):
-            state.click()
-            break
 
 
     time.sleep(5)
+    driver.quit()
 
 
 
