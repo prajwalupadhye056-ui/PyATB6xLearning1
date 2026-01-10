@@ -23,6 +23,7 @@ def test_verify_action_makemytrip():
     driver.get("https://www.makemytrip.com/")
     driver.maximize_window()
 
+
     WebDriverWait(driver=driver,timeout=5).until(EC.visibility_of_element_located((By.XPATH,"//span[@data-cy='closeModal']")))
 
     driver.find_element(By.XPATH,"//span[@data-cy='closeModal']").click()
