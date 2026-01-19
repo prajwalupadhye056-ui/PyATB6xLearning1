@@ -13,9 +13,10 @@ from selenium.webdriver.common.keys import Keys
 
 from allure_commons.types import AttachmentType
 
+
 @allure.title("Action P3 ")
 @allure.description("Verify Windows handle")
-def test_verify_action_windows():
+def test_verify_windows():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--incognito")
 
@@ -23,21 +24,19 @@ def test_verify_action_windows():
     driver.get("https://the-internet.herokuapp.com/windows")
     driver.maximize_window()
 
-
-    parent_window=driver.current_window_handle   #1
+    parent_window = driver.current_window_handle  # 1
     print(parent_window)
 
-    link=driver.find_element(By.LINK_TEXT,"Click Here")
+    link = driver.find_element(By.LINK_TEXT, "Click Here")
     link.click()
 
-    window_handles=driver.window_handles  #2
+    window_handles = driver.window_handles  # 2
     print(window_handles)
 
-    #switch the window
+    # switch the window
     for handle in window_handles:
-        driver.switch_to.window(handle)
-        if "New Window" in driver.page_source:
-            print("Test case passed")
-            break
-
-
+        if handle != parent_window:
+            driver.switch_to.window(handle)
+            if "New Window" in driver.page_source:
+                print("Test case passed")
+                break

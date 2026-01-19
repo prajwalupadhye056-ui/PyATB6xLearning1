@@ -16,5 +16,6 @@ def test_vmo_():
     print(driver.session_id)
     #5. GET -> GET API Request to navigate to particular page
     #6.browser will navigate to URL
+    
 
     #Source code (Client) -> API Request W3C - Browser Driver(Server)- >Browser

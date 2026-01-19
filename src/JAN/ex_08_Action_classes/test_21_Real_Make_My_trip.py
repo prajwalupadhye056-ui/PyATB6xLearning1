@@ -13,6 +13,7 @@ from selenium.webdriver.common.keys import Keys
 
 from allure_commons.types import AttachmentType
 
+
 @allure.title("Make my trip automation ")
 @allure.description("Verify make my trip automation using action classes")
 def test_verify_action_makemytrip():
@@ -23,20 +24,45 @@ def test_verify_action_makemytrip():
     driver.get("https://www.makemytrip.com/")
     driver.maximize_window()
 
+    WebDriverWait(driver=driver, timeout=5).until(
+        EC.visibility_of_element_located((By.XPATH, "//span[@data-cy='closeModal']")))
 
-    WebDriverWait(driver=driver,timeout=5).until(EC.visibility_of_element_located((By.XPATH,"//span[@data-cy='closeModal']")))
-
-    driver.find_element(By.XPATH,"//span[@data-cy='closeModal']").click()
+    driver.find_element(By.XPATH, "//span[@data-cy='closeModal']").click()
     time.sleep(2)
 
-    fromCity=driver.find_element(By.ID,"fromCity")
 
-    action=ActionChains(driver=driver)
-    action.move_to_element(fromCity).click().send_keys("del").perform()
+    #To close AI chat bot
+    (WebDriverWait(driver=driver, timeout=3).until
+     (EC.visibility_of_element_located((By.XPATH, "//img[@alt='minimize']"))
+
+      ))
+
+    driver.find_element(By.XPATH, "//img[@alt='minimize']").click()
+
+    # To bypass the element shown near from city
+    background_element = driver.find_element(By.TAG_NAME, "body")
+    background_element.click()
+
+    fromCity = driver.find_element(By.ID, "fromCity")
+
+    action = ActionChains(driver=driver)
+    (action
+     .move_to_element(fromCity)
+     .click()
+     .send_keys_to_element(fromCity, "del")
+     .perform())
 
     time.sleep(2)
-    action.move_to_element(fromCity).key_down(Keys.ARROW_DOWN).key_down(Keys.ENTER).perform()
+
+    (action
+    .move_to_element(fromCity)
+    .key_down(Keys.ARROW_DOWN)
+    .key_down(Keys.ENTER).perform())
 
 
-    allure.attach(driver.get_screenshot_as_png(),name="test_verify_action_makemytrip"
-                  ,attachment_type=AttachmentType.PNG)
+
+    allure.attach(driver.get_screenshot_as_png(), name="test_verify_action_makemytrip"
+              , attachment_type=AttachmentType.PNG)
+
+    time.sleep(5)
+    driver.quit()

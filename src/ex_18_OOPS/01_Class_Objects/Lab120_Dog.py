@@ -6,7 +6,7 @@ class Dog:
 
     def bark(self):
         print("Barking")
-        # print(name) -not allowed
+       # print(name) -not Allowed
         print(self.name)
 
     def talk(self):

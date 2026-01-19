@@ -4,12 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="03-Jan 2026 -New files Added">
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="10-Jan 2026 -New files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ShadowDOM/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_ShadowDOM/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ShadowDOM/test_28_Selenium_ShadowDOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_ShadowDOM/test_28_Selenium_ShadowDOM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_01_SeleniumBasics/test_02_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_01_SeleniumBasics/test_02_Selenium.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JAN/ex_08_Action_classes/test_21_Real_Make_My_trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_08_Action_classes/test_21_Real_Make_My_trip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_181_CSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_181_CSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_09_Window_Handling/test_21_WindowHandle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_09_Window_Handling/test_21_WindowHandle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_10_Selenium_Select_Dropdown/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_Select_Dropdown/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_10_Selenium_Select_Dropdown/test_22_Selenium_Select_Dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_Select_Dropdown/test_22_Selenium_Select_Dropdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_SVG/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_12_Selenium_SVG/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_SVG/test_23_Selenium_SVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_12_Selenium_SVG/test_23_Selenium_SVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_SVG/test_24_Selenium_SVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_12_Selenium_SVG/test_24_Selenium_SVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_25_Selenium_JavascriptExecutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_25_Selenium_JavascriptExecutor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_26_Selenium_JavascriptExecutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_26_Selenium_JavascriptExecutor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_13_ShadowDOM/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_14_ShadowDOM/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_13_ShadowDOM/test_28_Selenium_ShadowDOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_14_ShadowDOM/test_28_Selenium_ShadowDOM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/test_29_NoSuchElementException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/test_29_NoSuchElementException.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/test_30_StaleElementReferenceException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/test_30_StaleElementReferenceException.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/test_31_TimeOutException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/test_31_TimeOutException.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab_008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab27_String_Double_Single_Diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab27_String_Double_Single_Diff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Lab43_Identity_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab43_Identity_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_Lambda_functions3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_Lambda_functions3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_15_Set/Lab101_set1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab101_set1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS/01_Class_Objects/Lab120_Dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS/01_Class_Objects/Lab120_Dog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +96,8 @@
     "Python tests.Python tests for src.JAN.ex_08_Action_classes.test_20_Drag_and_drop.test_verify_action_mouse.executor": "Run",
     "Python tests.Python tests for src.JAN.ex_08_Action_classes.test_21_Real_Make_My_trip.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for src.JAN.ex_09_Window_Handling.test_21_WindowHandle.test_verify_action_windows.executor": "Run",
+    "Python tests.Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_IFrames_Selectorshub.test_verify_windows.executor": "Run",
+    "Python tests.Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_Iframes.test_verify_windows.executor": "Run",
     "Python tests.Python tests for src.JAN.ex_10_Selenium_Select_Dropdown.test_21_Selenium_Select_Dropdown.test_verify_action_windows.executor": "Run",
     "Python tests.Python tests for src.JAN.ex_10_Selenium_Select_Dropdown.test_22_Selenium_Select_Dropdown.test_verify_action_windows.executor": "Run",
     "Python tests.Python tests for src.JAN.ex_11_Selenium_SVG.test_23_Selenium_SVG.test_verify_action_windows.executor": "Run",
@@ -231,6 +253,7 @@
     "Python.Lab55_IQ2.executor": "Run",
     "Python.Lab56_WhileLoop.executor": "Run",
     "Python.Lab57_WhileloopIQ.executor": "Run",
+    "Python.Lab58_For_while.executor": "Run",
     "Python.Lab59_For_Break.executor": "Run",
     "Python.Lab61_Pass_break.executor": "Run",
     "Python.Lab62_IQ.executor": "Run",
@@ -251,6 +274,7 @@
     "Python.Lab76_Real_Args.executor": "Run",
     "Python.Lab77_Local_Variable.executor": "Run",
     "Python.Lab78_Local_Variable.executor": "Run",
+    "Python.Lab79_Inner_functions.executor": "Run",
     "Python.Lab80_Decorators.executor": "Run",
     "Python.Lab82_Without_Decor.executor": "Run",
     "Python.Lab83_Real_Decor.executor": "Run",
@@ -276,6 +300,16 @@
     "Python.Lab_004.executor": "Run",
     "Python.Lab_005.executor": "Run",
     "Python.Lab_006.executor": "Run",
+    "Python.Lab_008.executor": "Run",
+    "Python.Lab_009.executor": "Run",
+    "Python.Lab_010.executor": "Run",
+    "Python.Lab_012.executor": "Run",
+    "Python.Lab_013.executor": "Run",
+    "Python.Lab_014.executor": "Run",
+    "Python.Lab_015.executor": "Run",
+    "Python.Lab_016.executor": "Run",
+    "Python.Lab_017.executor": "Run",
+    "Python.Lab_018.executor": "Run",
     "Python.Lab_109_Dict.executor": "Run",
     "Python.Lab_110_Dict.executor": "Run",
     "Python.Lab_111_Dict.executor": "Run",
@@ -388,7 +422,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/SONY/PycharmProjects/PyATB6xLearning/src/JAN/ShadowDOM",
+    "last_opened_file_path": "C:/Users/SONY/PycharmProjects/PyATB6xLearning/src/JAN/ex_10_Selenium_IFRAMES",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -401,11 +435,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_10_Selenium_IFRAMES" />
+      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\FEB" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ShadowDOM" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_12_Javascript_Executor" />
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_11_Selenium_SVG" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_11_SVG" />
-      <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN\ex_10_Selenium_Select_Dropdown" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src" />
@@ -415,8 +449,30 @@
       <recent name="C:\Users\SONY\PycharmProjects\PyATB6xLearning\src\JAN" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.FEB.test_06_Selenium_NoSuchElementException.test_verify_SVG">
-    <configuration name="Lab_004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_IFrames_Selectorshub.test_verify_windows">
+    <configuration name="Lab142_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/06_Polymorphism/Method_Overloading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/06_Polymorphism/Method_Overloading/Lab142_MO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab_017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -429,7 +485,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab_004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab_017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,7 +494,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_181_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -447,11 +503,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_23_FileOperation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Lab_Programs_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_23_FileOperation/Lab_181_CSV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab_018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -460,7 +516,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.FEB.test_05_Selenium_SVG.test_verify_SVG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_IFrames_Selectorshub.test_verify_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -471,11 +527,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.FEB.test_05_Selenium_SVG.test_verify_SVG&quot;" />
+      <option name="_new_target" value="&quot;src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_IFrames_Selectorshub.test_verify_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.FEB.test_06_Selenium_NoSuchElementException.test_verify_SVG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_Iframes.test_verify_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -486,32 +542,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.FEB.test_06_Selenium_NoSuchElementException.test_verify_SVG&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for src.JAN.ex_11_Selenium_SVG.test_24_Selenium_SVG.test_verify_SVG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.JAN.ex_11_Selenium_SVG.test_24_Selenium_SVG.test_verify_SVG&quot;" />
+      <option name="_new_target" value="&quot;src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_Iframes.test_verify_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for src.FEB.test_06_Selenium_NoSuchElementException.test_verify_SVG" />
-        <item itemvalue="Python tests.Python tests for src.JAN.ex_11_Selenium_SVG.test_24_Selenium_SVG.test_verify_SVG" />
-        <item itemvalue="Python tests.Python tests for src.FEB.test_05_Selenium_SVG.test_verify_SVG" />
-        <item itemvalue="Python.Lab_181_CSV" />
-        <item itemvalue="Python.Lab_004" />
+        <item itemvalue="Python tests.Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_IFrames_Selectorshub.test_verify_windows" />
+        <item itemvalue="Python tests.Python tests for src.JAN.ex_10_Selenium_IFRAMES.test_LabSelenium_Iframes.test_verify_windows" />
+        <item itemvalue="Python.Lab_018" />
+        <item itemvalue="Python.Lab_017" />
+        <item itemvalue="Python.Lab142_MO" />
       </list>
     </recent_temporary>
   </component>
@@ -565,22 +606,6 @@
       <workItem from="1762320925515" duration="9989000" />
       <workItem from="1762349573148" duration="9956000" />
       <workItem from="1762586430474" duration="63000" />
-    </task>
-    <task id="LOCAL-00008" summary="11th OCT 2025 -New files Added">
-      <option name="closed" value="true" />
-      <created>1760351059307</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1760351059307</updated>
-    </task>
-    <task id="LOCAL-00009" summary="14th OCT 2025 -New files Added">
-      <option name="closed" value="true" />
-      <created>1760441337367</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1760441337367</updated>
     </task>
     <task id="LOCAL-00010" summary="14th OCT 2025 -New files Added">
       <option name="closed" value="true" />
@@ -958,7 +983,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767424631738</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="10-Jan 2026 -New files Added">
+      <option name="closed" value="true" />
+      <created>1768012753029</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1768012753029</updated>
+    </task>
+    <task id="LOCAL-00058" summary="10-Jan 2026 -New files Added">
+      <option name="closed" value="true" />
+      <created>1768012779496</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1768012779496</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -976,7 +1017,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New Files added" />
     <MESSAGE value="9th OCT 2025 -New files Added" />
     <MESSAGE value="11th OCT 2025 -New files Added" />
     <MESSAGE value="14th OCT 2025 -New files Added" />
@@ -1001,21 +1041,12 @@
     <MESSAGE value="16th Nov 2025 -New files Added" />
     <MESSAGE value="31st DEC 2025 -New files Added" />
     <MESSAGE value="03-Jan 2026 -New files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="03-Jan 2026 -New files Added" />
+    <MESSAGE value="10-Jan 2026 -New files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-Jan 2026 -New files Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_print.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_05_Conditions_Loop/Lab51_Grade_Cal.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/Task/Task008_Pageload.py</url>
           <option name="timeStamp" value="3" />
@@ -1034,11 +1065,6 @@
           <url>file://$PROJECT_DIR$/src/ex_practice_programs/Lab007_functions.py</url>
           <line>1</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_08_Functions/Lab67_Type3_Function_return.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/Task/Task20_Test_Case_Check.py</url>
@@ -1060,18 +1086,8 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_18_OOPS/08_Static/Lab_151_Static_Method.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/ex_19_Exceptions/Lab_164_Try_Except_Finally.py</url>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_22_Collections/Lab_174_Collections.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/ex_16_Map_filter_list/Lab105Map01.py</url>
@@ -1082,11 +1098,6 @@
           <url>file://$PROJECT_DIR$/src/Coding Practice/Lab002_TablePrint.py</url>
           <line>2</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

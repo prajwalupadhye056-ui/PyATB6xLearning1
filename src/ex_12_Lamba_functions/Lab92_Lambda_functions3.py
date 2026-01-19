@@ -11,4 +11,4 @@ import math
 
 
 #Never going to use this Not readable to human
-print(lambda : math.pow(int(input("Enter the number")),2)())
+print(lambda :math.pow(int(input("Enter the number")),2)())
