@@ -4,32 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="10-Jan 2026 -New files Added">
+    <list default="true" id="382a268b-a2ae-46f0-ba82-9989486ec585" name="Changes" comment="20-Jan 2026 -New files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_01_SeleniumBasics/test_02_Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_01_SeleniumBasics/test_02_Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_08_Action_classes/test_21_Real_Make_My_trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_08_Action_classes/test_21_Real_Make_My_trip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_09_Window_Handling/test_21_WindowHandle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_09_Window_Handling/test_21_WindowHandle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_10_Selenium_Select_Dropdown/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_Select_Dropdown/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_10_Selenium_Select_Dropdown/test_22_Selenium_Select_Dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_Select_Dropdown/test_22_Selenium_Select_Dropdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_SVG/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_12_Selenium_SVG/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_SVG/test_23_Selenium_SVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_12_Selenium_SVG/test_23_Selenium_SVG.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_11_Selenium_SVG/test_24_Selenium_SVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_12_Selenium_SVG/test_24_Selenium_SVG.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_25_Selenium_JavascriptExecutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_25_Selenium_JavascriptExecutor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_26_Selenium_JavascriptExecutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_26_Selenium_JavascriptExecutor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_12_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_13_ShadowDOM/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_14_ShadowDOM/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_13_ShadowDOM/test_28_Selenium_ShadowDOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_14_ShadowDOM/test_28_Selenium_ShadowDOM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/test_29_NoSuchElementException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/test_29_NoSuchElementException.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/test_30_StaleElementReferenceException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/test_30_StaleElementReferenceException.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_Selenium_Exceptions/test_31_TimeOutException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_15_Selenium_Exceptions/test_31_TimeOutException.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Programs_Practice/Lab_008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab27_String_Double_Single_Diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Literal_Variables/Lab27_String_Double_Single_Diff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Lab43_Identity_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab43_Identity_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_Lambda_functions3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lamba_functions/Lab92_Lambda_functions3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_15_Set/Lab101_set1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab101_set1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS/01_Class_Objects/Lab120_Dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS/01_Class_Objects/Lab120_Dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_26_Selenium_JavascriptExecutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_26_Selenium_JavascriptExecutor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_13_Javascript_Executor/test_27_Selenium_JavascriptExecutor_Organized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAN/ex_14_ShadowDOM/test_28_Selenium_ShadowDOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAN/ex_14_ShadowDOM/test_28_Selenium_ShadowDOM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -607,22 +586,6 @@
       <workItem from="1762349573148" duration="9956000" />
       <workItem from="1762586430474" duration="63000" />
     </task>
-    <task id="LOCAL-00010" summary="14th OCT 2025 -New files Added">
-      <option name="closed" value="true" />
-      <created>1760441350304</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1760441350304</updated>
-    </task>
-    <task id="LOCAL-00011" summary="14th OCT 2025 -New files Added">
-      <option name="closed" value="true" />
-      <created>1760454410693</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1760454410693</updated>
-    </task>
     <task id="LOCAL-00012" summary="14th OCT 2025 -New files Added">
       <option name="closed" value="true" />
       <created>1760454448246</created>
@@ -999,7 +962,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768012779496</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="10-Jan 2026 -New files Added">
+      <option name="closed" value="true" />
+      <created>1768861278789</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1768861278789</updated>
+    </task>
+    <task id="LOCAL-00060" summary="20-Jan 2026 -New files Added">
+      <option name="closed" value="true" />
+      <created>1768861299193</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1768861299193</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1017,7 +996,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9th OCT 2025 -New files Added" />
     <MESSAGE value="11th OCT 2025 -New files Added" />
     <MESSAGE value="14th OCT 2025 -New files Added" />
     <MESSAGE value="16th OCT 2025 -New files Added" />
@@ -1042,7 +1020,8 @@
     <MESSAGE value="31st DEC 2025 -New files Added" />
     <MESSAGE value="03-Jan 2026 -New files Added" />
     <MESSAGE value="10-Jan 2026 -New files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="10-Jan 2026 -New files Added" />
+    <MESSAGE value="20-Jan 2026 -New files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-Jan 2026 -New files Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

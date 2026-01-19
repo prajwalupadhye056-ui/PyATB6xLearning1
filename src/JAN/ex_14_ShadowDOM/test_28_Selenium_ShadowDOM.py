@@ -34,7 +34,10 @@ def test_verify_Shadow_DOM():
 
     username_div=driver.find_element(By.XPATH,"//div[@id='userName']")
     driver.execute_script("arguments[0].scrollIntoView(true);",username_div)
-    
+
+    kills_input = driver.execute_script("return document.querySelector('div#userName').shadowRoot.querySelector('#kils')")
+    kills_input.send_keys("Prajwal")
+
 
     input_box=driver.execute_script("return document.querySelector('div#userName').shadowRoot.querySelector('#app2').shadowRoot.querySelector('#pizza');")
     input_box.send_keys("farmhouse")

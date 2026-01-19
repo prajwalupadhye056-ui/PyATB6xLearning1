@@ -28,7 +28,11 @@ def test_verify_JS_Executor():
     driver.get("https://selectorshub.com/xpath-practice-page/")
     driver.maximize_window()
 
+
+    # scrolling down
     # driver.execute_script("window.scrollBy(0, 500);")
+
+
     title =driver.execute_script("return document.title")
     print(title)
     url= driver.execute_script("return document.URL")
