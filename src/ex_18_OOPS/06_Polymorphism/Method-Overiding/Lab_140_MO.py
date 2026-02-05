@@ -4,6 +4,7 @@ class BaseTest():
 
 class LoginTest(BaseTest):
     def run(self):
+
         print("Running Login Test")
 
 t= LoginTest()

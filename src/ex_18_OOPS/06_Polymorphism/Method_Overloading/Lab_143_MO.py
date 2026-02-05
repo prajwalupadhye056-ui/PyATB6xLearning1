@@ -6,4 +6,4 @@ class Person:
         print("Hi",name ,lastname)
 
 obj_ref= Person()
-obj_ref.say_name("Amit","upadhye")
+obj_ref.say_name("Amit")
